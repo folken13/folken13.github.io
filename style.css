@@ -1,0 +1,30 @@
+html {
+	color: black;
+	background-color: ;
+	background-image: none;
+	background-repeat: repeat;
+	background-attachment: scroll;
+	background-position: 0% 0%;
+	font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size: small;
+}
+
+button.Mode_btn {
+
+}
+
+button.PFC_btn { 
+padding:2; cursor:pointer; 
+}
+
+button.PFC_btn img { 
+display:block; width:120px; height:100px; 
+}
+
+#PFC_show_result b { 
+color:green; 
+}
+
+#PFC_show_result h4 { 
+font-weight:normal; 
+}
